@@ -1,5 +1,5 @@
 from freesound.__init__ import *
-Freesound.set_api_key('2623a9181cc64aa398f247971b1147e6')
+Freesound.set_api_key('getyourownkey')
 
 import serial
 import random
